@@ -1,0 +1,1 @@
+This repository demonstrates two common sources of errors in VBScript: late binding and implicit type coercion.  The `bug.vbs` file shows code vulnerable to these issues, while `bugSolution.vbs` offers corrected versions with explanations.
